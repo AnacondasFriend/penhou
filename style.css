@@ -1,0 +1,294 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&family=Marck+Script&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+main{
+    border: 3px
+            groove
+            #282621;
+}
+
+body{
+    margin:0 5%;
+    background-color: #10110F;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+header{
+    background-color: #13120F;
+    margin-bottom: 0;
+    position: relative;
+
+}
+
+header>h1{
+    display:none;
+    color: #c6b7ab;
+    margin: 0;
+    
+}
+
+.information{
+    padding-left: 3%;
+    position: absolute;
+    top:0;
+    padding-bottom: 10%;
+    color: #c6b7ab;
+    background: linear-gradient(to top,rgba(29, 23, 21, 0.5), 20%, rgba(16, 17, 15, 0.5));
+    height:100%;
+    text-shadow: #c6b7ab 1px 0 10px;
+}
+.logo{
+
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+.about{
+    display: inline-block;
+    width:60%;
+    font-size: 20px;
+}
+.about > p{
+    margin:0;
+}
+
+.about>p:last-child{
+    text-align: right;
+}
+
+.collections{
+    display: inline-block;
+    white-space: nowrap;
+    overflow-x: hidden;
+    width: 100%;
+
+}
+
+@keyframes sliderLeaf{
+    0%{
+        left:0;
+    }
+    15%{
+        left:0;
+      }
+    20%{
+        left:-100%;
+    }
+    35%{
+        left:-100%;
+      }
+
+    40%{
+        left:-200%;
+    }
+    55%{
+        left:-200%;
+      }
+
+
+    60%{
+        left:-300%;
+      }
+    75%{
+        left:-300%;
+      }
+    80%{
+        left:-400%;
+      }
+    100%{
+      left:-400%;
+    }
+  }
+
+.slides{
+    display: inline-block;
+    text-align: center;
+    width:100%;
+    position: relative;
+    background-size: cover;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    animation-name: sliderLeaf;
+    animation-duration:16s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.slides > img{
+    width:100%;
+    max-width: 800px;
+}
+.information{
+    position: absolute;
+}
+.productsContainer{
+    /*text-align: center;*/
+    background-color: #1d1715;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 10%;
+    
+}
+.category{
+    color: #c6b7ab;
+}
+.category>h1{
+    margin-left: 25px;
+}
+.fatherImg{
+    background-color: #1d1715;
+    border: 1px
+            solid
+            #10110f;
+    width:250px;
+    display: inline-block;
+}
+
+.fatherImg>img{
+    width: 100%;
+}
+.product{
+    display: inline-block;
+    width: 100%;
+}
+.fullProduct{
+    background-color: rgba(208, 206, 204, 0.5);
+    width:90%;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    z-index: 1;
+}
+.informationAboutProduct{
+    background-color: rgba(247, 246, 244, 0.95);;
+}
+.productImages{
+    width:45%;
+    display: inline-block;
+    text-align: center;     
+}
+.mainImage, .mainImage>img{
+    width: 100%;
+}
+.productViews{
+    display:inline-block; 
+
+    
+}
+.productViews>img{
+    width: 150px;
+}
+.allDescription{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+.deleteInfo{
+    text-align: end;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.productViews, .deleteInfo, .fatherImg :hover{
+    cursor: pointer;
+}
+.ourWorkshop{
+    color: #c6b7ab;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.grayShadow{
+    background: linear-gradient(to left, #1f1816, #2F373C);
+}
+.contacts{
+    color: #c6b7ab;
+    margin: 0;
+    padding-left: 3%;
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+}
+
+.gran{
+    width:45%;
+    display: inline-block;
+    min-width: 300px;
+}
+
+.gran > img{
+    width: 100%;
+}
+
+form>input{
+    padding: 10px;
+    margin-top: 10px;
+    border:0;
+    border-radius: 5px;
+}
+form>input[type=text]{
+    box-shadow:0 0 15px 4px rgba(198, 183, 171, 0.3);
+}
+
+
+ @media screen and (max-width: 930px) {
+
+    .about{
+        max-width: 100%;
+        width: 95%;
+        
+    }
+    p{
+        font-size: 14px;
+    }
+  }  
+
+@media screen and (max-width: 760px) {
+    .fullProduct h1{
+        font-size: 20px;
+    }
+    .p{
+        font-size: 14px;
+    }
+    .productViews{
+        width: 48%;
+    }
+    .productViews>img{
+        width: 100%;
+    }
+
+  }
+
+
+  @media screen and (max-width: 700px) {
+    .contacts{
+        width: 99%;
+    }
+    .gran{
+        width: 70%;
+    }
+  }
+ 
+@media screen and (max-width: 600px) {
+    header{
+        margin-bottom: 30%;
+    }
+    .information{
+        width:100%;
+    }
+    .p{
+        font-size: 11px;
+    }
+    .category>h1{
+        font-size: 16px;
+    }
+  }

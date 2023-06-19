@@ -1,0 +1,235 @@
+<xml>
+    <furniture alt='Мебель'>
+        <product>
+            <name>Прикроватная тумбочка</name>
+            <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком</description>
+            <price>6700</price>
+            <dimensions>40x40x34 см</dimensions>
+            <instock>0</instock>
+            <imgs>
+                <img>/productsImg/BedsideTableFront.png</img>
+                <img>/productsImg/BedsideTableISO.png</img>
+            </imgs>
+        </product>
+        <product>
+            <name>Туалетный столик</name>
+            <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком</description>
+            <price>17600</price>
+            <dimensions>97.4x45.4x135 см</dimensions>
+            <instock>0</instock>
+            <imgs>
+                <img>/productsImg/DressingTableFront.png</img>
+                <img>/productsImg/DressingTableISO.png</img>
+            </imgs>
+        </product>
+    </furniture>
+    <tablesNchairsNsofas alt='Столы, стулья, скамейки, диваны'>
+        <product>
+        <name>Кухонный стол</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком</description>
+        <price>12000</price>
+        <dimensions>129x69x800 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/DinnerTableStandardFront.png</img>
+            <img>/productsImg/DinnerTableStandardISO.png</img>
+        </imgs>
+    </product>
+
+    
+
+    <product>
+        <name>Скамья с европейской формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>7690</price>
+        <dimensions>120x40x91 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/highBenchCasualFormFront.png</img>
+            <img>/productsImg/highBenchCasualFormISO.png</img>
+        </imgs>
+    </product>
+
+    <product>
+        <name>Скамья с восточной формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>7690</price>
+        <dimensions>120x40x91 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/highBenchChineseFormFront.png</img>
+            <img>/productsImg/highBenchChineseFormISO.png</img>
+        </imgs>
+    </product>
+
+    <product>
+        <name>Стул с европейской формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>5400</price>
+        <dimensions>40x40x90 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/highChairCasualFormFront.png</img>
+            <img>/productsImg/highChairCasualFormISO.png</img>
+        </imgs>
+    </product>
+	
+	<product>
+        <name>Стул с восточной формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>5400</price>
+        <dimensions>40x40x90 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/highChairChineseFormFront.png</img>
+            <img>/productsImg/highChairChineseFormISO.png</img>
+        </imgs>
+    </product>
+
+    <product>
+        <name>Скамья на низких ножках с европейской формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>7500</price>
+        <dimensions>124x44x72 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/lowBenchCasualFormFront.png</img>
+            <img>/productsImg/lowBenchCasualFormISO.png</img>
+        </imgs>
+    </product>
+	
+	<product>
+        <name>Скамья на низких ножках с восточной формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>7500</price>
+        <dimensions>124x44x72 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/lowBenchChineseFormFront.png</img>
+            <img>/productsImg/lowBenchChineseFormISO.png</img>
+        </imgs>
+    </product>
+	
+	<product>
+        <name>Стул на низких ножках с европейской формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>5300</price>
+        <dimensions>44x44x61 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/lowChairCasualFormFront.png</img>
+            <img>/productsImg/lowChairCasualFormISO.png</img>
+        </imgs>
+    </product>
+	
+	<product>
+        <name>Стул на низких ножках с китайской формой спинки</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком, мягкая часть сидения формируется из поролона и хлопкового текстиля</description>
+        <price>5300</price>
+        <dimensions>44x44x61 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/lowChairChineseFormFront.png</img>
+            <img>/productsImg/lowChairChineseFormISO.png</img>
+        </imgs>
+    </product> 
+
+    <product>
+        <name>Квадратный столик на низких ножках</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком</description>
+        <price>8900</price>
+        <dimensions>60x60x41 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/CoffeeTableShortFront.png</img>
+            <img>/productsImg/CoffeeTableShortISO.png</img>
+        </imgs>
+    </product>
+
+    <product>
+        <name>Прямоугольный столик на низких ножках</name>
+        <description>Выполняется из сосны посредством столярных соединений и дополнительных металических креплений и покрывается защитным глянцевым лаком</description>
+        <price>10200</price>
+        <dimensions>120x60x41 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/CoffeeTableLongFront.png</img>
+            <img>/productsImg/CoffeeTableLongISO.png</img>
+        </imgs>
+
+    </product>
+
+    </tablesNchairsNsofas>
+
+    <ceremonialfurniture alt='Посуда для чайных церемоний'>
+        <product>
+            <name>Чабань</name>
+            <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком, используемым в банных помещениях и других помещениях повышенной влажности</description>
+            <price>3400</price>
+            <dimensions>40x30x91 см</dimensions>
+            <instock>0</instock>
+            <imgs>
+                <img>/productsImg/ChaPanFront.png</img>
+                <img>/productsImg/ChaPanISO.png</img>
+            </imgs>
+        </product>
+
+    </ceremonialfurniture> 
+ <other alt='Различные деревянные изделия'>   
+    <product>
+        <name>Портсигар</name>
+        <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком</description>
+        <price>850</price>
+        <dimensions>110x97x25 мм</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/CigarettesCaseFront.png</img>
+            <img>/productsImg/CigarettesCaseISO.png</img>
+        </imgs>
+    </product>
+    <product>
+        <name>Разделочная доска</name>
+        <description>Выполняется из сосны посредством столярных соединений и покрывается безопасным для продуктов льняным маслом</description>
+        <price>1150</price>
+        <dimensions>49x25x2 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/CuttingBoardISO.png</img>
+            <img>/productsImg/CuttingBoardTop.png</img>
+        </imgs>
+    </product>  
+     <product>
+        <name>Поднос для завтрака</name>
+        <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком</description>
+        <price>2500</price>
+        <dimensions>50x30x24.5 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/BreakfastBoardFront.png</img>
+            <img>/productsImg/BreakfastBoardISO.png</img>
+        </imgs>
+    </product>
+	<product>
+        <name>Ювелирница</name>
+        <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком</description>
+        <price>3400</price>
+        <dimensions>21x15x20 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/JewelleryCaseFront.png</img>
+            <img>/productsImg/JewelleryCaseISO.png</img>
+        </imgs>
+    </product>
+	<product>
+        <name>Органайзер</name>
+        <description>Выполняется из сосны посредством столярных соединений и покрывается защитным глянцевым лаком</description>
+        <price>610</price>
+        <dimensions>20x10x10 см</dimensions>
+        <instock>0</instock>
+        <imgs>
+            <img>/productsImg/OrganiserFront.png</img>
+            <img>/productsImg/OrganiserISO.png</img>
+        </imgs>
+    </product>
+</other>
+</xml>
