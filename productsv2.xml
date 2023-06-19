@@ -7,8 +7,8 @@
             <dimensions>40x40x34 см</dimensions>
             <instock>0</instock>
             <imgs>
-                <img>/productsImg/BedsideTableFront.png</img>
-                <img>/productsImg/BedsideTableISO.png</img>
+                <img>productsImg/BedsideTableFront.png</img>
+                <img>productsImg/BedsideTableISO.png</img>
             </imgs>
         </product>
         <product>
@@ -18,8 +18,8 @@
             <dimensions>97.4x45.4x135 см</dimensions>
             <instock>0</instock>
             <imgs>
-                <img>/productsImg/DressingTableFront.png</img>
-                <img>/productsImg/DressingTableISO.png</img>
+                <img>productsImg/DressingTableFront.png</img>
+                <img>productsImg/DressingTableISO.png</img>
             </imgs>
         </product>
     </furniture>
@@ -31,8 +31,8 @@
         <dimensions>129x69x800 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/DinnerTableStandardFront.png</img>
-            <img>/productsImg/DinnerTableStandardISO.png</img>
+            <img>productsImg/DinnerTableStandardFront.png</img>
+            <img>productsImg/DinnerTableStandardISO.png</img>
         </imgs>
     </product>
 
@@ -45,8 +45,8 @@
         <dimensions>120x40x91 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/highBenchCasualFormFront.png</img>
-            <img>/productsImg/highBenchCasualFormISO.png</img>
+            <img>productsImg/highBenchCasualFormFront.png</img>
+            <img>productsImg/highBenchCasualFormISO.png</img>
         </imgs>
     </product>
 
@@ -57,8 +57,8 @@
         <dimensions>120x40x91 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/highBenchChineseFormFront.png</img>
-            <img>/productsImg/highBenchChineseFormISO.png</img>
+            <img>productsImg/highBenchChineseFormFront.png</img>
+            <img>productsImg/highBenchChineseFormISO.png</img>
         </imgs>
     </product>
 
@@ -69,8 +69,8 @@
         <dimensions>40x40x90 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/highChairCasualFormFront.png</img>
-            <img>/productsImg/highChairCasualFormISO.png</img>
+            <img>productsImg/highChairCasualFormFront.png</img>
+            <img>productsImg/highChairCasualFormISO.png</img>
         </imgs>
     </product>
 	
@@ -81,8 +81,8 @@
         <dimensions>40x40x90 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/highChairChineseFormFront.png</img>
-            <img>/productsImg/highChairChineseFormISO.png</img>
+            <img>productsImg/highChairChineseFormFront.png</img>
+            <img>productsImg/highChairChineseFormISO.png</img>
         </imgs>
     </product>
 
@@ -93,8 +93,8 @@
         <dimensions>124x44x72 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/lowBenchCasualFormFront.png</img>
-            <img>/productsImg/lowBenchCasualFormISO.png</img>
+            <img>productsImg/lowBenchCasualFormFront.png</img>
+            <img>productsImg/lowBenchCasualFormISO.png</img>
         </imgs>
     </product>
 	
@@ -105,8 +105,8 @@
         <dimensions>124x44x72 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/lowBenchChineseFormFront.png</img>
-            <img>/productsImg/lowBenchChineseFormISO.png</img>
+            <img>productsImg/lowBenchChineseFormFront.png</img>
+            <img>productsImg/lowBenchChineseFormISO.png</img>
         </imgs>
     </product>
 	
@@ -117,8 +117,8 @@
         <dimensions>44x44x61 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/lowChairCasualFormFront.png</img>
-            <img>/productsImg/lowChairCasualFormISO.png</img>
+            <img>productsImg/lowChairCasualFormFront.png</img>
+            <img>productsImg/lowChairCasualFormISO.png</img>
         </imgs>
     </product>
 	
@@ -129,8 +129,8 @@
         <dimensions>44x44x61 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/lowChairChineseFormFront.png</img>
-            <img>/productsImg/lowChairChineseFormISO.png</img>
+            <img>productsImg/lowChairChineseFormFront.png</img>
+            <img>productsImg/lowChairChineseFormISO.png</img>
         </imgs>
     </product> 
 
@@ -141,8 +141,8 @@
         <dimensions>60x60x41 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/CoffeeTableShortFront.png</img>
-            <img>/productsImg/CoffeeTableShortISO.png</img>
+            <img>productsImg/CoffeeTableShortFront.png</img>
+            <img>productsImg/CoffeeTableShortISO.png</img>
         </imgs>
     </product>
 
@@ -153,8 +153,8 @@
         <dimensions>120x60x41 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/CoffeeTableLongFront.png</img>
-            <img>/productsImg/CoffeeTableLongISO.png</img>
+            <img>productsImg/CoffeeTableLongFront.png</img>
+            <img>productsImg/CoffeeTableLongISO.png</img>
         </imgs>
 
     </product>
@@ -169,8 +169,8 @@
             <dimensions>40x30x91 см</dimensions>
             <instock>0</instock>
             <imgs>
-                <img>/productsImg/ChaPanFront.png</img>
-                <img>/productsImg/ChaPanISO.png</img>
+                <img>productsImg/ChaPanFront.png</img>
+                <img>productsImg/ChaPanISO.png</img>
             </imgs>
         </product>
 
@@ -183,8 +183,8 @@
         <dimensions>110x97x25 мм</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/CigarettesCaseFront.png</img>
-            <img>/productsImg/CigarettesCaseISO.png</img>
+            <img>productsImg/CigarettesCaseFront.png</img>
+            <img>productsImg/CigarettesCaseISO.png</img>
         </imgs>
     </product>
     <product>
@@ -194,8 +194,8 @@
         <dimensions>49x25x2 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/CuttingBoardISO.png</img>
-            <img>/productsImg/CuttingBoardTop.png</img>
+            <img>productsImg/CuttingBoardISO.png</img>
+            <img>productsImg/CuttingBoardTop.png</img>
         </imgs>
     </product>  
      <product>
@@ -205,8 +205,8 @@
         <dimensions>50x30x24.5 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/BreakfastBoardFront.png</img>
-            <img>/productsImg/BreakfastBoardISO.png</img>
+            <img>productsImg/BreakfastBoardFront.png</img>
+            <img>productsImg/BreakfastBoardISO.png</img>
         </imgs>
     </product>
 	<product>
@@ -216,8 +216,8 @@
         <dimensions>21x15x20 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/JewelleryCaseFront.png</img>
-            <img>/productsImg/JewelleryCaseISO.png</img>
+            <img>productsImg/JewelleryCaseFront.png</img>
+            <img>productsImg/JewelleryCaseISO.png</img>
         </imgs>
     </product>
 	<product>
@@ -227,8 +227,8 @@
         <dimensions>20x10x10 см</dimensions>
         <instock>0</instock>
         <imgs>
-            <img>/productsImg/OrganiserFront.png</img>
-            <img>/productsImg/OrganiserISO.png</img>
+            <img>productsImg/OrganiserFront.png</img>
+            <img>productsImg/OrganiserISO.png</img>
         </imgs>
     </product>
 </other>
